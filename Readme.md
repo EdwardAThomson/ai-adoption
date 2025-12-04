@@ -1,6 +1,6 @@
 # AI Adoption For Business
   
-A practical, real-world framework to help small and medium-sized enterprises (SMEs) adopt AI safely and effectively.
+This is an introduction to a practical, real-world framework to help small and medium-sized enterprises (SMEs) adopt AI safely and effectively.
 
 The framework is composed of two main components:
 
