@@ -20,7 +20,7 @@ This public repository contains **supporting research and reference material**, 
       - Selected real-world case studies and industry references (e.g., Anthropic’s use of AI in engineering work).
 
 - **Governance, risk, and compliance summaries**
-    - [EU AI Act summary](Summaries/EU_AI_Act_summary.md) — structured summary of the EU AI Act and what it means for businesses. ([YouTube Summary](https://youtu.be/QTUWY_SRLx0))
+    - [EU AI Act summary](Summaries/EU_AI_Act_summary.md) — summary of the EU AI Act and what it means for businesses. ([YouTube Summary](https://youtu.be/QTUWY_SRLx0))
     - [NIST AI RMF summary](Summaries/NIST_AI_RMF_summary.md) — summary of the NIST AI Risk Management Framework. ([YouTube Summary](https://youtu.be/vX__BejukI8))
     - [ISO 42001 summary](Summaries/ISO_42001_summary.md) — notes on ISO/IEC 42001 (AI management systems). ([YouTube Summary](https://youtu.be/qZvBa9_5Jks))
     - These are written with SMEs in mind and connected to opportunity discovery and risk management.
