@@ -5,6 +5,8 @@
 **Type:** Certifiable management system standard  
 **Status:** First international standard for AI management systems (AIMS)
 
+There is also an AI-powered summary video on YouTube: [ISO 42001 Summary](https://youtu.be/qZvBa9_5Jks)
+
 ---
 
 ## Document Status

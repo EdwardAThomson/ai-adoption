@@ -4,6 +4,8 @@
 
 *Document Status:* High-level summary based on public whitepapers, reports, and secondary analyses. This is **for comparison and context only**, not a replication of any firm’s proprietary IP.
 
+There is also an AI-powered summary video on YouTube: [Consulting Firm AI Adoption Frameworks](https://youtu.be/sO2JjcGNTXo)
+
 ---
 
 ## Purpose

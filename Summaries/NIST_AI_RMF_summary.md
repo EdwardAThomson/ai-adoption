@@ -6,6 +6,8 @@
 **Type:** Voluntary framework (not regulatory)  
 **Status:** U.S. federal guidance, internationally recognized
 
+There is also an AI-powered summary video on YouTube: [NIST AI RMF Summary](https://youtu.be/vX__BejukI8)
+
 ---
 
 ## Document Status

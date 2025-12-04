@@ -6,6 +6,8 @@
 **Type:** Binding EU regulation  
 **Status:** World's first comprehensive AI regulation
 
+There is also an AI-powered summary video on YouTube: [EU AI Act Summary](https://youtu.be/QTUWY_SRLx0)
+
 ---
 
 ## Document Status
