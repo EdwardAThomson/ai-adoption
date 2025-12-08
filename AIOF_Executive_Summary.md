@@ -18,7 +18,7 @@ Without a structured approach, AI discussions stay at the level of hype and expe
 
 ## The AIOF Approach
 
-AIOF (AI Opportunity Framework) is a **short, workshop-based process** that turns “we should do something with AI” into a **prioritized, standards-aware portfolio of AI opportunities** for your business.
+AIOF (AI Opportunity Framework) is a **short, workshop-based process** that turns “we should do something with AI” into a **prioritized, standards-aware portfolio of AI opportunities** for your business. ([YouTube: AI Summary](https://www.youtube.com/watch?v=p66XKxbq1wQ))
 
 Over a short series of workshops, AIOF helps you:
 
